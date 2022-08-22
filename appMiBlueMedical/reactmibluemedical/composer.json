@@ -1,0 +1,6 @@
+{
+    "require-dev": {
+        "xethron/migrations-generator": "dev-l5",
+        "way/generators": "dev-feature/laravel-five-stable"
+    }
+}
